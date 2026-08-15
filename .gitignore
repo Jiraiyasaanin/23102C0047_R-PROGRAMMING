@@ -1,0 +1,8 @@
+# Exclude data files
+*.csv
+
+# Exclude generated images
+*.png
+
+# Exclude markdown reports and task tracking
+*.md
