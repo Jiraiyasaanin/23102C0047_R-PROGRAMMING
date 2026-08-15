@@ -9,3 +9,6 @@
 
 # Exclude zip archives
 *.zip
+
+# Exclude Jupyter Notebooks from remote tracking
+*.ipynb
