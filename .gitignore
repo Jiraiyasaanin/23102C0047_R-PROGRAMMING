@@ -6,3 +6,6 @@
 
 # Exclude markdown reports and task tracking
 *.md
+
+# Exclude zip archives
+*.zip
