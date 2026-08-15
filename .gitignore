@@ -1,14 +1,4 @@
-# Exclude data files
+
 *.csv
-
-# Exclude generated images
 *.png
-
-# Exclude markdown reports and task tracking
 *.md
-
-# Exclude zip archives
-*.zip
-
-# Exclude Jupyter Notebooks from remote tracking
-*.ipynb
